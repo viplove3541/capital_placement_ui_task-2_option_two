@@ -40,6 +40,8 @@ Tech Stack Used :
 - TYPESCRIPT
 - REACT.JS
 - TAILWIND.CSS
+- REACT CHART-JS
+- ANT DESIGN LIBRARY
 
   ## Author
 
