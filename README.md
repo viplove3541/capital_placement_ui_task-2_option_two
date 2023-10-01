@@ -23,8 +23,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project assignment was given by Capital Placement for FE intern task where we can show the knowledge and tech skill of frontend tools like React.js,
-Tailwind.css,API integration and UI design. This project serves as an excellent opportunity for me to showcase and enhance my expertise in React, API integration, and UI design. It provides a holistic platform to demonstrate my ability to harmoniously combine these skills to develop a resilient and user-centric application.
+
+The system efficiently monitors and documents user applications in a corporate setting, streamlining the application management process for employees and external parties. It tracks application progress, ensures accurate documentation, and promotes compliance with company policies. Centralizing this function enhances transparency, reduces administrative overhead, and fosters a more organized and compliant workflow.
 
 Features include:
 - Built with React.js ✨
