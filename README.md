@@ -23,8 +23,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-The system efficiently monitors and documents user applications in a corporate setting, streamlining the application management process for employees and external parties. It tracks application progress, ensures accurate documentation, and promotes compliance with company policies. Centralizing this function enhances transparency, reduces administrative overhead, and fosters a more organized and compliant workflow.
+The system efficiently monitors and documents user applications in a corporate setting, streamlining the application management process for employees and external parties. 
+It tracks application progress, ensures accurate documentation, and promotes compliance with company policies. 
+Centralizing this function enhances transparency, reduces administrative overhead, and fosters a more organized and compliant workflow.
 
 Features include:
 - Built with React.js ✨
